@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://siantilit.github.io/sitemap.html.gz
+Sitemap: https://siantilit.github.io/app/sitemap.html.gz
+Sitemap: https://siantilit.github.io/assets/sitemap.html.gz
+Sitemap: https://siantilit.github.io/css/sitemap.html.gz
+Sitemap: https://siantilit.github.io/includes/sitemap.html.gz
+Sitemap: https://siantilit.github.io/item/sitemap.html.gz
+Sitemap: https://siantilit.github.io/src/sitemap.html.gz
